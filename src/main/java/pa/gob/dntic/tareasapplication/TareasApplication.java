@@ -23,3 +23,5 @@ public class TareasApplication {
     @GetMapping("/tareas") public List<String> tareas(){ return List.of("comprar pan","llamar a mama","desplegar ARKA"); }
 }
 
+//para generar un cambio
+
